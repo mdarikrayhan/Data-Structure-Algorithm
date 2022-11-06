@@ -6,8 +6,9 @@ typedef long long LL;
 const int N=200000+10;
 const LL MOD=1e9+7;
 
-LL n,m;
+
 int main() {
+    LL n,m;
     cin>>n>>m;
     LL nex,ans=(n%MOD)*(m%MOD);
     for(LL i=1;i<=n;i=nex+1){
