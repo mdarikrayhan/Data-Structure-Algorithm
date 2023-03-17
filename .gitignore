@@ -31,3 +31,5 @@
 *.out
 *.a
 
+# Other files
+.DS_Store
