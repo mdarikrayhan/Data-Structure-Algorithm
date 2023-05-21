@@ -10,6 +10,9 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.bin
+*.prob
+*.DS_Store
 
 # Compiled Dynamic libraries
 *.so
